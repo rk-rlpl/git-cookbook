@@ -1,6 +1,6 @@
 name             'git-cookbook'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Raj Kiran Gade'
+maintainer_email 'rajkiran.gade@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures git-cookbook'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
