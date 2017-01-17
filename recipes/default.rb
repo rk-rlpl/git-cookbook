@@ -6,6 +6,9 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+# Uses Package to Install git. On Debian Machines, it uses apt-get and on RHEL machines, yum.
 package "git"
 
+# Simple Log Statement
 log "Well, that was easy!"
